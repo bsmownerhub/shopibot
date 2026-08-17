@@ -1,4 +1,5 @@
 telebot
+httpx
 telethon
 telegram
 aiogram
